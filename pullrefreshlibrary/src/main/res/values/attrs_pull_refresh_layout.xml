@@ -1,0 +1,9 @@
+<resources>
+    <declare-styleable name="PullRefreshLayout">
+        <attr name="refreshViewClassName" format="string"/>
+        <attr name="exampleDimension" format="dimension"/>
+        <attr name="exampleColor" format="color"/>
+        <attr name="exampleDrawable" format="color|reference"/>
+        <attr name="refreshView" format="integer"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PullRefresh Library</string>
+    <string name="tv_refresh">下拉刷新</string>
+    <string name="tv_refresh_load">正在载入...</string>
+    <string name="tv_refresh_down">下拉刷新...</string>
+</resources>

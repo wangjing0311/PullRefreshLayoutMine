@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PullRefreshLayout</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="list_view">ListView</string>
+    <string name="title_activity_scroll_view">ScrollViewActivity</string>
+    <string name="scroll_view">SCROLLVIEW</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="web_view">WEBVIEW</string>
+    <string name="title_activity_recyle_view">RecyleViewActivity</string>
+    <string name="recycler_view">RECYCLERVIEW</string>
+    <string name="title_activity_view_pager">ViewPagerActivity</string>
+    <string name="view_pager">VIEWPAGER</string>
+    <string name="listfooterview">ListFooterView</string>
+    <string name="load_error">加载出错</string>
+    <string name="title_activity_do_layout_list">DoLayoutListActivity</string>
+    <string name="dolayoutlistview">DOLAYOUTLISTVIEW</string>
+    <string name="title_activity_empty_list">EmptyListActivity</string>
+    <string name="empty_list_view">EMPTY_LIST_VIEW</string>
+    <string name="title_activity_liner_layout">LinerLayoutActivity</string>
+    <string name="linerlayout">LINERLAYOUT</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_custom_refresh_view_scroll_view">
+        CustomRefreshViewScrollViewActivity
+    </string>
+    <string name="custom_refresh_view">CUSTOM_REFRESH_VIEW</string>
+</resources>
